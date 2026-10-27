@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Data Engineer working in data management and infrastructure design. Focused on building efficient ETL/ELT pipelines, optimizing databases, and ensuring data is high-quality and highly accessible.
-
+currently learning and building
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parinthaokar) 
